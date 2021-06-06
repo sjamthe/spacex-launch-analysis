@@ -4,34 +4,19 @@
 - Will you experience more gs accending or descending? 
 - While powered by stage-1's 9 Merlin engines screaming or on stage-2 trying to hit the orbital velocity?
 
-If you wanted the answers, here is a hacker project that can answer it all. The project downloads image frames from a YouTube launch video and uses 
-[EasyOCR](https://github.com/JaidedAI/EasyOCR) to get the telematics and does some simple high school physics to get to the answers.
+If you wanted the answers, here is a hacker project that can answer it all.
 
 ![CRS-22 Launch](crs-22.png)
 
 ### Answers First
 
-Before we talk about the project, Lets look at the answers to our questions. I was actually surprised by two of the three.
+I analyzed the recent [SpaceX CRS-22](https://en.wikipedia.org/wiki/SpaceX_CRS-22) which delivered cargo including solar panels to the International Space Station.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+There were two major surprises for me.
+1. While ascending you will experience more g-forces (4.1g) when while powered by Stage-2 (when approaching escape velocity) than from Stage-1 (3.2g just before stage separation).
+![stage-2 acceleration](stage2-g.png)
+2. On Stage-1 you will experience maximum g-force (-4.5g) descending (just when engines fire back to slow the descent). No crew is onboard at this time and this probably also give one more reason to why SpaceX Starship uses drag to slow down a lot before firing the engines.
+![stage-1 acceleration](stage1-g.png)
 
 ### Jekyll Themes
 
