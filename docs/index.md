@@ -10,12 +10,12 @@ If you wanted the answers, here is a hacker project that can answer it all.
 
 ### Answers First
 
-I analyzed the recent [SpaceX CRS-22](https://en.wikipedia.org/wiki/SpaceX_CRS-22) which delivered cargo including solar panels to the International Space Station.
+I analyzed the recent [SpaceX CRS-22](https://en.wikipedia.org/wiki/SpaceX_CRS-22) launch on 3 June 2021 that delivered cargo (including the new [ROLA](https://en.wikipedia.org/wiki/Roll_Out_Solar_Array) solar array) to the International Space Station.
 
 There were two major surprises for me.
-1. While ascending you will experience more g-forces (4.1g) when while powered by Stage-2 (when approaching escape velocity) than from Stage-1 (3.2g just before stage separation).
+1. While ascending you will experience more g-forces (*4.1g*) when powered by Stage-2 (closer to approaching escape velocity) than powered on from Stage-1 (*3.2g* - just before stage separation).
 ![stage-2 acceleration](stage2-g.png)
-2. On Stage-1 you will experience maximum g-force (-4.5g) descending (just when engines fire back to slow the descent). No crew is onboard at this time and this probably also give one more reason to why SpaceX Starship uses drag to slow down a lot before firing the engines.
+2. On Stage-1 you will experience maximum g-force (*-4.5g*) descending (just when engines fire back again to slow the descent). Crew is not onboard at this time and this probably is also one more reason why SpaceX Starship uses drag to slow down a lot before firing the engines.
 
 ![stage-1 acceleration](stage1-g.png)
 
