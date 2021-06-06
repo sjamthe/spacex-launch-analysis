@@ -1,6 +1,8 @@
 ## How much g-force will you experience in a SpaceX Falcon-9 launch?
 
-Have you ever wondered how many [g-force](https://en.wikipedia.org/wiki/G-force) you would experience sitting on [SpaceX Falcon-9](https://www.spacex.com/vehicles/falcon-9/)? Will you experience more gs accending or descending? While powered by stage-1's 9 Merlin engines screaming or on stage-2 trying to hit the orbital velocity?
+- Have you ever wondered how many [g-force](https://en.wikipedia.org/wiki/G-force) you would experience sitting on [SpaceX Falcon-9](https://www.spacex.com/vehicles/falcon-9/)? 
+- Will you experience more gs accending or descending? 
+- While powered by stage-1's 9 Merlin engines screaming or on stage-2 trying to hit the orbital velocity?
 
 If you wanted the answers, here is a hacker project that can answer it all. The project downloads image frames from a YouTube launch video and uses 
 [EasyOCR](https://github.com/JaidedAI/EasyOCR) to get the telematics and does some simple high school physics to get to the answers.
