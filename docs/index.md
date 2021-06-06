@@ -16,6 +16,7 @@ There were two major surprises for me.
 1. While ascending you will experience more g-forces (4.1g) when while powered by Stage-2 (when approaching escape velocity) than from Stage-1 (3.2g just before stage separation).
 ![stage-2 acceleration](stage2-g.png)
 2. On Stage-1 you will experience maximum g-force (-4.5g) descending (just when engines fire back to slow the descent). No crew is onboard at this time and this probably also give one more reason to why SpaceX Starship uses drag to slow down a lot before firing the engines.
+
 ![stage-1 acceleration](stage1-g.png)
 
 ### Jekyll Themes
