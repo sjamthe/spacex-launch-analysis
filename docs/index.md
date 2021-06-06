@@ -7,6 +7,8 @@
 If you wanted the answers, here is a hacker project that can answer it all. The project downloads image frames from a YouTube launch video and uses 
 [EasyOCR](https://github.com/JaidedAI/EasyOCR) to get the telematics and does some simple high school physics to get to the answers.
 
+![CRS-22 Launch](crs-22.png)
+
 ### Answers First
 
 Before we talk about the project, Lets look at the answers to our questions. I was actually surprised by two of the three.
