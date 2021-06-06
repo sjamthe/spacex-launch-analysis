@@ -44,5 +44,6 @@ This is better explained by the altitude chart below. Upto about 250 seconds or 
 7. After a few minutes we should have an array of all the telematics. We will pickle these results to GDrive so we can release the GPU and play with the numbers at leasure. [Here](crs-22-results.p) is CRS-22 pickled results file.
 8. Last step is to scrub the data for outliers/bad OCR readings and perform high school physics to get acceleration!
 
-Engoy!
+Enjoy!
 
+![xkcd: Orbital Mechanics](https://imgs.xkcd.com/comics/orbital_mechanics.png)
